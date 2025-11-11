@@ -1,0 +1,6 @@
+Hello World.
+Practice small projects.
+Calculator with menu options.
+Guess the number game.
+Simple bank system (using classes).
+Array sorting program.
